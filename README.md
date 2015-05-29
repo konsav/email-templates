@@ -8,6 +8,13 @@ Responsive HTML email templates with Sketch app resources and [a social media ic
 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/general.png" alt="General template" width="640">
 
+## Promotional template
+[HTML source](https://github.com/konsav/email-templates/blob/master/promotional.html) |
+[CodePen preview](http://codepen.io/konsav/pen/gpggmY) |
+[Sketch app resource](https://raw.githubusercontent.com/konsav/email-templates/master/sketch/promotional-email-template.sketch)
+
+<img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/promotional.png" alt="Promotional template" width="640">
+
 ## Сompatibility check (May'15)
 * Apple Mail (Mac OS, iOS iPhone/iPad)
 * Microsoft Outlook (2013 Win, 2011 Mac, iOS, Android, Outlook.com)
