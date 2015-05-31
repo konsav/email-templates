@@ -15,8 +15,8 @@ Responsive HTML email templates with Sketch app resources and [a social media ic
 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/promotional.png" alt="Promotional template" width="640">
 
-## Code preview
-Well commented, readable and easily customizable code.
+## Code formatting
+Well commented and readable code makes it easy to customize these templates.
 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/code.png" alt="Code preview" width="640">
 
