@@ -15,12 +15,18 @@ Responsive HTML email templates with Sketch app resources and [a social media ic
 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/promotional.png" alt="Promotional template" width="640">
 
+## Explorational template
+[HTML source](https://github.com/konsav/email-templates/blob/master/explorational.html) |
+[CodePen preview](http://codepen.io/konsav/pen/PqjVvE)
+
+<img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/explorational.png" alt="Explorational template" width="640">
+
 ## Code formatting
-Well commented and readable code makes it easy to customize these templates.
+Well commented and readable code. Editable values are indented and submitted to a new line.
 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/code.png" alt="Code preview" width="640">
 
-## Сompatibility check (May'15)
+## Сompatibility check (June'15)
 * Apple Mail (Mac OS, iOS iPhone/iPad)
 * Microsoft Outlook (2013 Win, 2011 Mac, iOS, Android, Outlook.com)
 * Google Gmail (Web, Android, iOS)
