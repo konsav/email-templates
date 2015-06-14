@@ -17,7 +17,8 @@ Responsive HTML email templates with Sketch app resources and [a social media ic
 
 ## Explorational template
 [HTML source](https://github.com/konsav/email-templates/blob/master/explorational.html) |
-[CodePen preview](http://codepen.io/konsav/pen/PqjVvE)
+[CodePen preview](http://codepen.io/konsav/pen/PqjVvE) |
+[Sketch app resource](https://raw.githubusercontent.com/konsav/email-templates/master/sketch/explorational-email-template.sketch)
 
 <img src="https://raw.githubusercontent.com/konsav/email-templates/master/preview/explorational.png" alt="Explorational template" width="640">
 
